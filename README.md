@@ -105,16 +105,6 @@ http://127.0.0.1:8000
 
 ---
 
-## 📸 Screenshots
-
-**Home Page**
-![Home Page](docs/screenshots/home.png)
-
-**Admin Page**
-![Admin Page](docs/screenshots/admin.png)
-
----
-
 ## 🛠 Technologies
 - **Laravel 10**
 - PHP 8+
